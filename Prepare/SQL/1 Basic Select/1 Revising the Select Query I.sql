@@ -1,4 +1,3 @@
-Select * from table ; 
---this is for demo 
-slkdfjalsd
-alkdjlkd
+SELECT *
+FROM CITY
+WHERE Population > 100000 AND Countrycode = "USA";
